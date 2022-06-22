@@ -1,0 +1,36 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+
+header {
+	
+}
+
+button {
+	
+}
+
+div {
+	background-color: yellow;
+}
+
+#hobby1 {
+	
+}
+
+#hobby2 {
+	background-color: pink;
+	border: 5px solid red;
+}
+
+#hobby3 {
+	 background-image: url("images/rose-peach.jpg");
+}
+
+
+
